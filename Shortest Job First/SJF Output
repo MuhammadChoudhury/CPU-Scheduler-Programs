@@ -1,0 +1,1389 @@
+Hello World. SJF scheduler created in Pycharm
+1 lot = [[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 1  is in the Ready queue with CPU burst of  5 units
+Process 2  is in the Ready queue with CPU burst of  4 units
+Process 3  is in the Ready queue with CPU burst of  8 units
+Process 4  is in the Ready queue with CPU burst of  3 units
+Process 5  is in the Ready queue with CPU burst of  16 units
+Process 6  is in the Ready queue with CPU burst of  11 units
+Process 7  is in the Ready queue with CPU burst of  14 units
+Process 8  is in the Ready queue with CPU burst of  4 units
+Process 4 is currently executing
+Process 4 has gone first execution. Response Time:  0
+Current Execution Time: 3
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 1  is in the Ready queue with CPU burst of  5 units
+Process 2  is in the Ready queue with CPU burst of  4 units
+Process 3  is in the Ready queue with CPU burst of  8 units
+Process 5  is in the Ready queue with CPU burst of  16 units
+Process 6  is in the Ready queue with CPU burst of  11 units
+Process 7  is in the Ready queue with CPU burst of  14 units
+Process 8  is in the Ready queue with CPU burst of  4 units
+Process 4 is in the I/O queue with I/O burst of 35 units
+Process 2 is currently executing
+Process 2 has gone first execution. Response Time:  3
+Current Execution Time: 7
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 1  is in the Ready queue with CPU burst of  5 units
+Process 3  is in the Ready queue with CPU burst of  8 units
+Process 5  is in the Ready queue with CPU burst of  16 units
+Process 6  is in the Ready queue with CPU burst of  11 units
+Process 7  is in the Ready queue with CPU burst of  14 units
+Process 8  is in the Ready queue with CPU burst of  4 units
+Process 2 is in the I/O queue with I/O burst of 48 units
+Process 4 is in the I/O queue with I/O burst of 35 units
+Process 8 is currently executing
+Process 8 has gone first execution. Response Time:  7
+Current Execution Time: 11
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 1  is in the Ready queue with CPU burst of  5 units
+Process 3  is in the Ready queue with CPU burst of  8 units
+Process 5  is in the Ready queue with CPU burst of  16 units
+Process 6  is in the Ready queue with CPU burst of  11 units
+Process 7  is in the Ready queue with CPU burst of  14 units
+Process 2 is in the I/O queue with I/O burst of 48 units
+Process 4 is in the I/O queue with I/O burst of 35 units
+Process 8 is in the I/O queue with I/O burst of 14 units
+Process 1 is currently executing
+Process 1 has gone first execution. Response Time:  11
+Current Execution Time: 16
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  8 units
+Process 5  is in the Ready queue with CPU burst of  16 units
+Process 6  is in the Ready queue with CPU burst of  11 units
+Process 7  is in the Ready queue with CPU burst of  14 units
+Process 1 is in the I/O queue with I/O burst of 27 units
+Process 2 is in the I/O queue with I/O burst of 48 units
+Process 4 is in the I/O queue with I/O burst of 35 units
+Process 8 is in the I/O queue with I/O burst of 14 units
+Process 3 is currently executing
+Process 3 has gone first execution. Response Time:  16
+Current Execution Time: 24
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 5  is in the Ready queue with CPU burst of  16 units
+Process 6  is in the Ready queue with CPU burst of  11 units
+Process 7  is in the Ready queue with CPU burst of  14 units
+Process 1 is in the I/O queue with I/O burst of 27 units
+Process 2 is in the I/O queue with I/O burst of 48 units
+Process 3 is in the I/O queue with I/O burst of 33 units
+Process 4 is in the I/O queue with I/O burst of 35 units
+Process 8 is in the I/O queue with I/O burst of 14 units
+Process 6 is currently executing
+Process 6 has gone first execution. Response Time:  24
+Current Execution Time: 35
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 5  is in the Ready queue with CPU burst of  16 units
+Process 7  is in the Ready queue with CPU burst of  14 units
+Process 8  is in the Ready queue with CPU burst of  5 units
+Process 1 is in the I/O queue with I/O burst of 27 units
+Process 2 is in the I/O queue with I/O burst of 48 units
+Process 3 is in the I/O queue with I/O burst of 33 units
+Process 4 is in the I/O queue with I/O burst of 35 units
+Process 6 is in the I/O queue with I/O burst of 22 units
+Process 8 is currently executing
+Current Execution Time: 40
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 4  is in the Ready queue with CPU burst of  4 units
+Process 5  is in the Ready queue with CPU burst of  16 units
+Process 7  is in the Ready queue with CPU burst of  14 units
+Process 1 is in the I/O queue with I/O burst of 27 units
+Process 2 is in the I/O queue with I/O burst of 48 units
+Process 3 is in the I/O queue with I/O burst of 33 units
+Process 6 is in the I/O queue with I/O burst of 22 units
+Process 8 is in the I/O queue with I/O burst of 33 units
+Process 4 is currently executing
+Current Execution Time: 44
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 1  is in the Ready queue with CPU burst of  3 units
+Process 5  is in the Ready queue with CPU burst of  16 units
+Process 7  is in the Ready queue with CPU burst of  14 units
+Process 2 is in the I/O queue with I/O burst of 48 units
+Process 3 is in the I/O queue with I/O burst of 33 units
+Process 4 is in the I/O queue with I/O burst of 41 units
+Process 6 is in the I/O queue with I/O burst of 22 units
+Process 8 is in the I/O queue with I/O burst of 33 units
+Process 1 is currently executing
+Current Execution Time: 47
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 5  is in the Ready queue with CPU burst of  16 units
+Process 7  is in the Ready queue with CPU burst of  14 units
+Process 1 is in the I/O queue with I/O burst of 31 units
+Process 2 is in the I/O queue with I/O burst of 48 units
+Process 3 is in the I/O queue with I/O burst of 33 units
+Process 4 is in the I/O queue with I/O burst of 41 units
+Process 6 is in the I/O queue with I/O burst of 22 units
+Process 8 is in the I/O queue with I/O burst of 33 units
+Process 7 is currently executing
+Process 7 has gone first execution. Response Time:  47
+Current Execution Time: 61
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2  is in the Ready queue with CPU burst of  5 units
+Process 3  is in the Ready queue with CPU burst of  12 units
+Process 5  is in the Ready queue with CPU burst of  16 units
+Process 6  is in the Ready queue with CPU burst of  4 units
+Process 1 is in the I/O queue with I/O burst of 31 units
+Process 4 is in the I/O queue with I/O burst of 41 units
+Process 7 is in the I/O queue with I/O burst of 46 units
+Process 8 is in the I/O queue with I/O burst of 33 units
+Process 6 is currently executing
+Current Execution Time: 65
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2  is in the Ready queue with CPU burst of  5 units
+Process 3  is in the Ready queue with CPU burst of  12 units
+Process 5  is in the Ready queue with CPU burst of  16 units
+Process 1 is in the I/O queue with I/O burst of 31 units
+Process 4 is in the I/O queue with I/O burst of 41 units
+Process 6 is in the I/O queue with I/O burst of 8 units
+Process 7 is in the I/O queue with I/O burst of 46 units
+Process 8 is in the I/O queue with I/O burst of 33 units
+Process 2 is currently executing
+Current Execution Time: 70
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  12 units
+Process 5  is in the Ready queue with CPU burst of  16 units
+Process 1 is in the I/O queue with I/O burst of 31 units
+Process 2 is in the I/O queue with I/O burst of 44 units
+Process 4 is in the I/O queue with I/O burst of 41 units
+Process 6 is in the I/O queue with I/O burst of 8 units
+Process 7 is in the I/O queue with I/O burst of 46 units
+Process 8 is in the I/O queue with I/O burst of 33 units
+Process 3 is currently executing
+Current Execution Time: 82
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 1  is in the Ready queue with CPU burst of  5 units
+Process 5  is in the Ready queue with CPU burst of  16 units
+Process 6  is in the Ready queue with CPU burst of  5 units
+Process 8  is in the Ready queue with CPU burst of  6 units
+Process 2 is in the I/O queue with I/O burst of 44 units
+Process 3 is in the I/O queue with I/O burst of 41 units
+Process 4 is in the I/O queue with I/O burst of 41 units
+Process 7 is in the I/O queue with I/O burst of 46 units
+Process 1 is currently executing
+Current Execution Time: 87
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 4  is in the Ready queue with CPU burst of  5 units
+Process 5  is in the Ready queue with CPU burst of  16 units
+Process 6  is in the Ready queue with CPU burst of  5 units
+Process 8  is in the Ready queue with CPU burst of  6 units
+Process 1 is in the I/O queue with I/O burst of 43 units
+Process 2 is in the I/O queue with I/O burst of 44 units
+Process 3 is in the I/O queue with I/O burst of 41 units
+Process 7 is in the I/O queue with I/O burst of 46 units
+Process 4 is currently executing
+Current Execution Time: 92
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 5  is in the Ready queue with CPU burst of  16 units
+Process 6  is in the Ready queue with CPU burst of  5 units
+Process 8  is in the Ready queue with CPU burst of  6 units
+Process 1 is in the I/O queue with I/O burst of 43 units
+Process 2 is in the I/O queue with I/O burst of 44 units
+Process 3 is in the I/O queue with I/O burst of 41 units
+Process 4 is in the I/O queue with I/O burst of 45 units
+Process 7 is in the I/O queue with I/O burst of 46 units
+Process 6 is currently executing
+Current Execution Time: 97
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 5  is in the Ready queue with CPU burst of  16 units
+Process 8  is in the Ready queue with CPU burst of  6 units
+Process 1 is in the I/O queue with I/O burst of 43 units
+Process 2 is in the I/O queue with I/O burst of 44 units
+Process 3 is in the I/O queue with I/O burst of 41 units
+Process 4 is in the I/O queue with I/O burst of 45 units
+Process 6 is in the I/O queue with I/O burst of 10 units
+Process 7 is in the I/O queue with I/O burst of 46 units
+Process 8 is currently executing
+Current Execution Time: 103
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 5  is in the Ready queue with CPU burst of  16 units
+Process 1 is in the I/O queue with I/O burst of 43 units
+Process 2 is in the I/O queue with I/O burst of 44 units
+Process 3 is in the I/O queue with I/O burst of 41 units
+Process 4 is in the I/O queue with I/O burst of 45 units
+Process 6 is in the I/O queue with I/O burst of 10 units
+Process 7 is in the I/O queue with I/O burst of 46 units
+Process 8 is in the I/O queue with I/O burst of 51 units
+Process 5 is currently executing
+Process 5 has gone first execution. Response Time:  103
+Current Execution Time: 119
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2  is in the Ready queue with CPU burst of  7 units
+Process 6  is in the Ready queue with CPU burst of  6 units
+Process 7  is in the Ready queue with CPU burst of  17 units
+Process 1 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 41 units
+Process 4 is in the I/O queue with I/O burst of 45 units
+Process 5 is in the I/O queue with I/O burst of 24 units
+Process 8 is in the I/O queue with I/O burst of 51 units
+Process 6 is currently executing
+Current Execution Time: 125
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2  is in the Ready queue with CPU burst of  7 units
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 7  is in the Ready queue with CPU burst of  17 units
+Process 1 is in the I/O queue with I/O burst of 43 units
+Process 4 is in the I/O queue with I/O burst of 45 units
+Process 5 is in the I/O queue with I/O burst of 24 units
+Process 6 is in the I/O queue with I/O burst of 12 units
+Process 8 is in the I/O queue with I/O burst of 51 units
+Process 2 is currently executing
+Current Execution Time: 132
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 1  is in the Ready queue with CPU burst of  4 units
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 7  is in the Ready queue with CPU burst of  17 units
+Process 2 is in the I/O queue with I/O burst of 42 units
+Process 4 is in the I/O queue with I/O burst of 45 units
+Process 5 is in the I/O queue with I/O burst of 24 units
+Process 6 is in the I/O queue with I/O burst of 12 units
+Process 8 is in the I/O queue with I/O burst of 51 units
+Process 1 is currently executing
+Current Execution Time: 136
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 7  is in the Ready queue with CPU burst of  17 units
+Process 1 is in the I/O queue with I/O burst of 18 units
+Process 2 is in the I/O queue with I/O burst of 42 units
+Process 4 is in the I/O queue with I/O burst of 45 units
+Process 5 is in the I/O queue with I/O burst of 24 units
+Process 6 is in the I/O queue with I/O burst of 12 units
+Process 8 is in the I/O queue with I/O burst of 51 units
+Process 7 is currently executing
+Current Execution Time: 153
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 4  is in the Ready queue with CPU burst of  3 units
+Process 5  is in the Ready queue with CPU burst of  17 units
+Process 6  is in the Ready queue with CPU burst of  7 units
+Process 1 is in the I/O queue with I/O burst of 18 units
+Process 2 is in the I/O queue with I/O burst of 42 units
+Process 7 is in the I/O queue with I/O burst of 41 units
+Process 8 is in the I/O queue with I/O burst of 51 units
+Process 4 is currently executing
+Current Execution Time: 156
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 1  is in the Ready queue with CPU burst of  6 units
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 5  is in the Ready queue with CPU burst of  17 units
+Process 6  is in the Ready queue with CPU burst of  7 units
+Process 8  is in the Ready queue with CPU burst of  14 units
+Process 2 is in the I/O queue with I/O burst of 42 units
+Process 4 is in the I/O queue with I/O burst of 51 units
+Process 7 is in the I/O queue with I/O burst of 41 units
+Process 1 is currently executing
+Current Execution Time: 162
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 5  is in the Ready queue with CPU burst of  17 units
+Process 6  is in the Ready queue with CPU burst of  7 units
+Process 8  is in the Ready queue with CPU burst of  14 units
+Process 1 is in the I/O queue with I/O burst of 22 units
+Process 2 is in the I/O queue with I/O burst of 42 units
+Process 4 is in the I/O queue with I/O burst of 51 units
+Process 7 is in the I/O queue with I/O burst of 41 units
+Process 6 is currently executing
+Current Execution Time: 169
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 5  is in the Ready queue with CPU burst of  17 units
+Process 8  is in the Ready queue with CPU burst of  14 units
+Process 1 is in the I/O queue with I/O burst of 22 units
+Process 2 is in the I/O queue with I/O burst of 42 units
+Process 4 is in the I/O queue with I/O burst of 51 units
+Process 6 is in the I/O queue with I/O burst of 14 units
+Process 7 is in the I/O queue with I/O burst of 41 units
+Process 8 is currently executing
+Current Execution Time: 183
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2  is in the Ready queue with CPU burst of  12 units
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 5  is in the Ready queue with CPU burst of  17 units
+Process 6  is in the Ready queue with CPU burst of  9 units
+Process 1 is in the I/O queue with I/O burst of 22 units
+Process 4 is in the I/O queue with I/O burst of 51 units
+Process 7 is in the I/O queue with I/O burst of 41 units
+Process 8 is in the I/O queue with I/O burst of 73 units
+Process 6 is currently executing
+Current Execution Time: 192
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 1  is in the Ready queue with CPU burst of  4 units
+Process 2  is in the Ready queue with CPU burst of  12 units
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 5  is in the Ready queue with CPU burst of  17 units
+Process 4 is in the I/O queue with I/O burst of 51 units
+Process 6 is in the I/O queue with I/O burst of 18 units
+Process 7 is in the I/O queue with I/O burst of 41 units
+Process 8 is in the I/O queue with I/O burst of 73 units
+Process 1 is currently executing
+Current Execution Time: 196
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2  is in the Ready queue with CPU burst of  12 units
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 5  is in the Ready queue with CPU burst of  17 units
+Process 7  is in the Ready queue with CPU burst of  11 units
+Process 1 is in the I/O queue with I/O burst of 26 units
+Process 4 is in the I/O queue with I/O burst of 51 units
+Process 6 is in the I/O queue with I/O burst of 18 units
+Process 8 is in the I/O queue with I/O burst of 73 units
+Process 7 is currently executing
+Current Execution Time: 207
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2  is in the Ready queue with CPU burst of  12 units
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 4  is in the Ready queue with CPU burst of  4 units
+Process 5  is in the Ready queue with CPU burst of  17 units
+Process 1 is in the I/O queue with I/O burst of 26 units
+Process 6 is in the I/O queue with I/O burst of 18 units
+Process 7 is in the I/O queue with I/O burst of 42 units
+Process 8 is in the I/O queue with I/O burst of 73 units
+Process 4 is currently executing
+Current Execution Time: 211
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2  is in the Ready queue with CPU burst of  12 units
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 5  is in the Ready queue with CPU burst of  17 units
+Process 6  is in the Ready queue with CPU burst of  12 units
+Process 1 is in the I/O queue with I/O burst of 26 units
+Process 4 is in the I/O queue with I/O burst of 61 units
+Process 7 is in the I/O queue with I/O burst of 42 units
+Process 8 is in the I/O queue with I/O burst of 73 units
+Process 2 is currently executing
+Current Execution Time: 223
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 1  is in the Ready queue with CPU burst of  3 units
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 5  is in the Ready queue with CPU burst of  17 units
+Process 6  is in the Ready queue with CPU burst of  12 units
+Process 2 is in the I/O queue with I/O burst of 37 units
+Process 4 is in the I/O queue with I/O burst of 61 units
+Process 7 is in the I/O queue with I/O burst of 42 units
+Process 8 is in the I/O queue with I/O burst of 73 units
+Process 1 is currently executing
+Current Execution Time: 226
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 5  is in the Ready queue with CPU burst of  17 units
+Process 6  is in the Ready queue with CPU burst of  12 units
+Process 1 is in the I/O queue with I/O burst of 24 units
+Process 2 is in the I/O queue with I/O burst of 37 units
+Process 4 is in the I/O queue with I/O burst of 61 units
+Process 7 is in the I/O queue with I/O burst of 42 units
+Process 8 is in the I/O queue with I/O burst of 73 units
+Process 6 is currently executing
+Current Execution Time: 238
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 5  is in the Ready queue with CPU burst of  17 units
+Process 1 is in the I/O queue with I/O burst of 24 units
+Process 2 is in the I/O queue with I/O burst of 37 units
+Process 4 is in the I/O queue with I/O burst of 61 units
+Process 6 is in the I/O queue with I/O burst of 24 units
+Process 7 is in the I/O queue with I/O burst of 42 units
+Process 8 is in the I/O queue with I/O burst of 73 units
+Process 5 is currently executing
+Current Execution Time: 255
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 1  is in the Ready queue with CPU burst of  4 units
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 7  is in the Ready queue with CPU burst of  15 units
+Process 2 is in the I/O queue with I/O burst of 37 units
+Process 4 is in the I/O queue with I/O burst of 61 units
+Process 5 is in the I/O queue with I/O burst of 21 units
+Process 6 is in the I/O queue with I/O burst of 24 units
+Process 8 is in the I/O queue with I/O burst of 73 units
+Process 1 is currently executing
+Process 1 has finished total execution.
+Total Turnaround Time:  259
+Current Execution Time: 259
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 7  is in the Ready queue with CPU burst of  15 units
+Process 8  is in the Ready queue with CPU burst of  16 units
+Process 2 is in the I/O queue with I/O burst of 37 units
+Process 4 is in the I/O queue with I/O burst of 61 units
+Process 5 is in the I/O queue with I/O burst of 21 units
+Process 6 is in the I/O queue with I/O burst of 24 units
+Process 1 has already been terminated
+Process 7 is currently executing
+Current Execution Time: 274
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2  is in the Ready queue with CPU burst of  9 units
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 4  is in the Ready queue with CPU burst of  5 units
+Process 6  is in the Ready queue with CPU burst of  15 units
+Process 8  is in the Ready queue with CPU burst of  16 units
+Process 5 is in the I/O queue with I/O burst of 21 units
+Process 7 is in the I/O queue with I/O burst of 21 units
+Process 1 has already been terminated
+Process 4 is currently executing
+Current Execution Time: 279
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2  is in the Ready queue with CPU burst of  9 units
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 5  is in the Ready queue with CPU burst of  5 units
+Process 6  is in the Ready queue with CPU burst of  15 units
+Process 8  is in the Ready queue with CPU burst of  16 units
+Process 4 is in the I/O queue with I/O burst of 54 units
+Process 7 is in the I/O queue with I/O burst of 21 units
+Process 1 has already been terminated
+Process 5 is currently executing
+Current Execution Time: 284
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2  is in the Ready queue with CPU burst of  9 units
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 6  is in the Ready queue with CPU burst of  15 units
+Process 8  is in the Ready queue with CPU burst of  16 units
+Process 4 is in the I/O queue with I/O burst of 54 units
+Process 5 is in the I/O queue with I/O burst of 36 units
+Process 7 is in the I/O queue with I/O burst of 21 units
+Process 1 has already been terminated
+Process 2 is currently executing
+Current Execution Time: 293
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 6  is in the Ready queue with CPU burst of  15 units
+Process 8  is in the Ready queue with CPU burst of  16 units
+Process 2 is in the I/O queue with I/O burst of 76 units
+Process 4 is in the I/O queue with I/O burst of 54 units
+Process 5 is in the I/O queue with I/O burst of 36 units
+Process 7 is in the I/O queue with I/O burst of 21 units
+Process 1 has already been terminated
+Process 6 is currently executing
+Current Execution Time: 308
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 7  is in the Ready queue with CPU burst of  4 units
+Process 8  is in the Ready queue with CPU burst of  16 units
+Process 2 is in the I/O queue with I/O burst of 76 units
+Process 4 is in the I/O queue with I/O burst of 54 units
+Process 5 is in the I/O queue with I/O burst of 36 units
+Process 6 is in the I/O queue with I/O burst of 30 units
+Process 1 has already been terminated
+Process 7 is currently executing
+Current Execution Time: 312
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 8  is in the Ready queue with CPU burst of  16 units
+Process 2 is in the I/O queue with I/O burst of 76 units
+Process 4 is in the I/O queue with I/O burst of 54 units
+Process 5 is in the I/O queue with I/O burst of 36 units
+Process 6 is in the I/O queue with I/O burst of 30 units
+Process 7 is in the I/O queue with I/O burst of 32 units
+Process 1 has already been terminated
+Process 8 is currently executing
+Current Execution Time: 328
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 5  is in the Ready queue with CPU burst of  16 units
+Process 2 is in the I/O queue with I/O burst of 76 units
+Process 4 is in the I/O queue with I/O burst of 54 units
+Process 6 is in the I/O queue with I/O burst of 30 units
+Process 7 is in the I/O queue with I/O burst of 32 units
+Process 8 is in the I/O queue with I/O burst of 87 units
+Process 1 has already been terminated
+Process 5 is currently executing
+Current Execution Time: 344
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 4  is in the Ready queue with CPU burst of  6 units
+Process 6  is in the Ready queue with CPU burst of  8 units
+Process 7  is in the Ready queue with CPU burst of  7 units
+Process 2 is in the I/O queue with I/O burst of 76 units
+Process 5 is in the I/O queue with I/O burst of 26 units
+Process 8 is in the I/O queue with I/O burst of 87 units
+Process 1 has already been terminated
+Process 4 is currently executing
+Current Execution Time: 350
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 6  is in the Ready queue with CPU burst of  8 units
+Process 7  is in the Ready queue with CPU burst of  7 units
+Process 2 is in the I/O queue with I/O burst of 76 units
+Process 4 is in the I/O queue with I/O burst of 82 units
+Process 5 is in the I/O queue with I/O burst of 26 units
+Process 8 is in the I/O queue with I/O burst of 87 units
+Process 1 has already been terminated
+Process 7 is currently executing
+Current Execution Time: 357
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 6  is in the Ready queue with CPU burst of  8 units
+Process 2 is in the I/O queue with I/O burst of 76 units
+Process 4 is in the I/O queue with I/O burst of 82 units
+Process 5 is in the I/O queue with I/O burst of 26 units
+Process 7 is in the I/O queue with I/O burst of 19 units
+Process 8 is in the I/O queue with I/O burst of 87 units
+Process 1 has already been terminated
+Process 6 is currently executing
+Process 6 has finished total execution.
+Total Turnaround Time:  365
+Current Execution Time: 365
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  18 units
+Process 2 is in the I/O queue with I/O burst of 76 units
+Process 4 is in the I/O queue with I/O burst of 82 units
+Process 5 is in the I/O queue with I/O burst of 26 units
+Process 7 is in the I/O queue with I/O burst of 19 units
+Process 8 is in the I/O queue with I/O burst of 87 units
+Process 1 has already been terminated
+Process 6 has already been terminated
+Process 3 is currently executing
+Current Execution Time: 383
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2  is in the Ready queue with CPU burst of  4 units
+Process 5  is in the Ready queue with CPU burst of  7 units
+Process 7  is in the Ready queue with CPU burst of  16 units
+Process 3 is in the I/O queue with I/O burst of 65 units
+Process 4 is in the I/O queue with I/O burst of 82 units
+Process 8 is in the I/O queue with I/O burst of 87 units
+Process 1 has already been terminated
+Process 6 has already been terminated
+Process 2 is currently executing
+Current Execution Time: 387
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 5  is in the Ready queue with CPU burst of  7 units
+Process 7  is in the Ready queue with CPU burst of  16 units
+Process 2 is in the I/O queue with I/O burst of 41 units
+Process 3 is in the I/O queue with I/O burst of 65 units
+Process 4 is in the I/O queue with I/O burst of 82 units
+Process 8 is in the I/O queue with I/O burst of 87 units
+Process 1 has already been terminated
+Process 6 has already been terminated
+Process 5 is currently executing
+Current Execution Time: 394
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 7  is in the Ready queue with CPU burst of  16 units
+Process 2 is in the I/O queue with I/O burst of 41 units
+Process 3 is in the I/O queue with I/O burst of 65 units
+Process 4 is in the I/O queue with I/O burst of 82 units
+Process 5 is in the I/O queue with I/O burst of 31 units
+Process 8 is in the I/O queue with I/O burst of 87 units
+Process 1 has already been terminated
+Process 6 has already been terminated
+Process 7 is currently executing
+Current Execution Time: 410
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 41 units
+Process 3 is in the I/O queue with I/O burst of 65 units
+Process 4 is in the I/O queue with I/O burst of 82 units
+Process 5 is in the I/O queue with I/O burst of 31 units
+Process 7 is in the I/O queue with I/O burst of 33 units
+Process 8 is in the I/O queue with I/O burst of 87 units
+Idle. Total idle time (so far): 1
+Current Execution Time: 411
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 41 units
+Process 3 is in the I/O queue with I/O burst of 65 units
+Process 4 is in the I/O queue with I/O burst of 82 units
+Process 5 is in the I/O queue with I/O burst of 31 units
+Process 7 is in the I/O queue with I/O burst of 33 units
+Process 8 is in the I/O queue with I/O burst of 87 units
+Idle. Total idle time (so far): 2
+Current Execution Time: 412
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 41 units
+Process 3 is in the I/O queue with I/O burst of 65 units
+Process 4 is in the I/O queue with I/O burst of 82 units
+Process 5 is in the I/O queue with I/O burst of 31 units
+Process 7 is in the I/O queue with I/O burst of 33 units
+Process 8 is in the I/O queue with I/O burst of 87 units
+Idle. Total idle time (so far): 3
+Current Execution Time: 413
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 41 units
+Process 3 is in the I/O queue with I/O burst of 65 units
+Process 4 is in the I/O queue with I/O burst of 82 units
+Process 5 is in the I/O queue with I/O burst of 31 units
+Process 7 is in the I/O queue with I/O burst of 33 units
+Process 8 is in the I/O queue with I/O burst of 87 units
+Idle. Total idle time (so far): 4
+Current Execution Time: 414
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 41 units
+Process 3 is in the I/O queue with I/O burst of 65 units
+Process 4 is in the I/O queue with I/O burst of 82 units
+Process 5 is in the I/O queue with I/O burst of 31 units
+Process 7 is in the I/O queue with I/O burst of 33 units
+Idle. Total idle time (so far): 5
+Current Execution Time: 415
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 8  is in the Ready queue with CPU burst of  6 units
+Process 2 is in the I/O queue with I/O burst of 41 units
+Process 3 is in the I/O queue with I/O burst of 65 units
+Process 4 is in the I/O queue with I/O burst of 82 units
+Process 5 is in the I/O queue with I/O burst of 31 units
+Process 7 is in the I/O queue with I/O burst of 33 units
+Process 1 has already been terminated
+Process 6 has already been terminated
+Process 8 is currently executing
+Process 8 has finished total execution.
+Total Turnaround Time:  421
+Current Execution Time: 421
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 41 units
+Process 3 is in the I/O queue with I/O burst of 65 units
+Process 4 is in the I/O queue with I/O burst of 82 units
+Process 5 is in the I/O queue with I/O burst of 31 units
+Process 7 is in the I/O queue with I/O burst of 33 units
+Idle. Total idle time (so far): 6
+Current Execution Time: 422
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 41 units
+Process 3 is in the I/O queue with I/O burst of 65 units
+Process 4 is in the I/O queue with I/O burst of 82 units
+Process 5 is in the I/O queue with I/O burst of 31 units
+Process 7 is in the I/O queue with I/O burst of 33 units
+Idle. Total idle time (so far): 7
+Current Execution Time: 423
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 41 units
+Process 3 is in the I/O queue with I/O burst of 65 units
+Process 4 is in the I/O queue with I/O burst of 82 units
+Process 5 is in the I/O queue with I/O burst of 31 units
+Process 7 is in the I/O queue with I/O burst of 33 units
+Idle. Total idle time (so far): 8
+Current Execution Time: 424
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 41 units
+Process 3 is in the I/O queue with I/O burst of 65 units
+Process 4 is in the I/O queue with I/O burst of 82 units
+Process 7 is in the I/O queue with I/O burst of 33 units
+Idle. Total idle time (so far): 9
+Current Execution Time: 425
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 5  is in the Ready queue with CPU burst of  13 units
+Process 2 is in the I/O queue with I/O burst of 41 units
+Process 3 is in the I/O queue with I/O burst of 65 units
+Process 4 is in the I/O queue with I/O burst of 82 units
+Process 7 is in the I/O queue with I/O burst of 33 units
+Process 1 has already been terminated
+Process 6 has already been terminated
+Process 8 has already been terminated
+Process 5 is currently executing
+Current Execution Time: 438
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2  is in the Ready queue with CPU burst of  9 units
+Process 4  is in the Ready queue with CPU burst of  5 units
+Process 3 is in the I/O queue with I/O burst of 65 units
+Process 5 is in the I/O queue with I/O burst of 28 units
+Process 7 is in the I/O queue with I/O burst of 33 units
+Process 1 has already been terminated
+Process 6 has already been terminated
+Process 8 has already been terminated
+Process 4 is currently executing
+Current Execution Time: 443
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2  is in the Ready queue with CPU burst of  9 units
+Process 7  is in the Ready queue with CPU burst of  10 units
+Process 3 is in the I/O queue with I/O burst of 65 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 5 is in the I/O queue with I/O burst of 28 units
+Process 1 has already been terminated
+Process 6 has already been terminated
+Process 8 has already been terminated
+Process 2 is currently executing
+Current Execution Time: 452
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  14 units
+Process 7  is in the Ready queue with CPU burst of  10 units
+Process 2 is in the I/O queue with I/O burst of 31 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 5 is in the I/O queue with I/O burst of 28 units
+Process 1 has already been terminated
+Process 6 has already been terminated
+Process 8 has already been terminated
+Process 7 is currently executing
+Process 7 has finished total execution.
+Total Turnaround Time:  462
+Current Execution Time: 462
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  14 units
+Process 2 is in the I/O queue with I/O burst of 31 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 5 is in the I/O queue with I/O burst of 28 units
+Process 1 has already been terminated
+Process 6 has already been terminated
+Process 7 has already been terminated
+Process 8 has already been terminated
+Process 3 is currently executing
+Current Execution Time: 476
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 5  is in the Ready queue with CPU burst of  11 units
+Process 2 is in the I/O queue with I/O burst of 31 units
+Process 3 is in the I/O queue with I/O burst of 21 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 1 has already been terminated
+Process 6 has already been terminated
+Process 7 has already been terminated
+Process 8 has already been terminated
+Process 5 is currently executing
+Current Execution Time: 487
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2  is in the Ready queue with CPU burst of  7 units
+Process 3 is in the I/O queue with I/O burst of 21 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 5 is in the I/O queue with I/O burst of 21 units
+Process 1 has already been terminated
+Process 6 has already been terminated
+Process 7 has already been terminated
+Process 8 has already been terminated
+Process 2 is currently executing
+Current Execution Time: 494
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 21 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 5 is in the I/O queue with I/O burst of 21 units
+Idle. Total idle time (so far): 10
+Current Execution Time: 495
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 21 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 5 is in the I/O queue with I/O burst of 21 units
+Idle. Total idle time (so far): 11
+Current Execution Time: 496
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 5 is in the I/O queue with I/O burst of 21 units
+Idle. Total idle time (so far): 12
+Current Execution Time: 497
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  4 units
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 5 is in the I/O queue with I/O burst of 21 units
+Process 1 has already been terminated
+Process 6 has already been terminated
+Process 7 has already been terminated
+Process 8 has already been terminated
+Process 3 is currently executing
+Current Execution Time: 501
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 5 is in the I/O queue with I/O burst of 21 units
+Idle. Total idle time (so far): 13
+Current Execution Time: 502
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 5 is in the I/O queue with I/O burst of 21 units
+Idle. Total idle time (so far): 14
+Current Execution Time: 503
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 5 is in the I/O queue with I/O burst of 21 units
+Idle. Total idle time (so far): 15
+Current Execution Time: 504
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 5 is in the I/O queue with I/O burst of 21 units
+Idle. Total idle time (so far): 16
+Current Execution Time: 505
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 5 is in the I/O queue with I/O burst of 21 units
+Idle. Total idle time (so far): 17
+Current Execution Time: 506
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 5 is in the I/O queue with I/O burst of 21 units
+Idle. Total idle time (so far): 18
+Current Execution Time: 507
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Idle. Total idle time (so far): 19
+Current Execution Time: 508
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 5  is in the Ready queue with CPU burst of  6 units
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 1 has already been terminated
+Process 6 has already been terminated
+Process 7 has already been terminated
+Process 8 has already been terminated
+Process 5 is currently executing
+Current Execution Time: 514
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 5 is in the I/O queue with I/O burst of 13 units
+Idle. Total idle time (so far): 20
+Current Execution Time: 515
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 5 is in the I/O queue with I/O burst of 13 units
+Idle. Total idle time (so far): 21
+Current Execution Time: 516
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 5 is in the I/O queue with I/O burst of 13 units
+Idle. Total idle time (so far): 22
+Current Execution Time: 517
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 5 is in the I/O queue with I/O burst of 13 units
+Idle. Total idle time (so far): 23
+Current Execution Time: 518
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 4 is in the I/O queue with I/O burst of 77 units
+Process 5 is in the I/O queue with I/O burst of 13 units
+Idle. Total idle time (so far): 24
+Current Execution Time: 519
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 5 is in the I/O queue with I/O burst of 13 units
+Idle. Total idle time (so far): 25
+Current Execution Time: 520
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 4  is in the Ready queue with CPU burst of  3 units
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 5 is in the I/O queue with I/O burst of 13 units
+Process 1 has already been terminated
+Process 6 has already been terminated
+Process 7 has already been terminated
+Process 8 has already been terminated
+Process 4 is currently executing
+Process 4 has finished total execution.
+Total Turnaround Time:  523
+Current Execution Time: 523
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 5 is in the I/O queue with I/O burst of 13 units
+Idle. Total idle time (so far): 26
+Current Execution Time: 524
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 5 is in the I/O queue with I/O burst of 13 units
+Idle. Total idle time (so far): 27
+Current Execution Time: 525
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 5 is in the I/O queue with I/O burst of 13 units
+Idle. Total idle time (so far): 28
+Current Execution Time: 526
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Idle. Total idle time (so far): 29
+Current Execution Time: 527
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 5  is in the Ready queue with CPU burst of  3 units
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 1 has already been terminated
+Process 4 has already been terminated
+Process 6 has already been terminated
+Process 7 has already been terminated
+Process 8 has already been terminated
+Process 5 is currently executing
+Current Execution Time: 530
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 5 is in the I/O queue with I/O burst of 11 units
+Idle. Total idle time (so far): 30
+Current Execution Time: 531
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 5 is in the I/O queue with I/O burst of 11 units
+Idle. Total idle time (so far): 31
+Current Execution Time: 532
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 5 is in the I/O queue with I/O burst of 11 units
+Idle. Total idle time (so far): 32
+Current Execution Time: 533
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 5 is in the I/O queue with I/O burst of 11 units
+Idle. Total idle time (so far): 33
+Current Execution Time: 534
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 5 is in the I/O queue with I/O burst of 11 units
+Idle. Total idle time (so far): 34
+Current Execution Time: 535
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2 is in the I/O queue with I/O burst of 43 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 5 is in the I/O queue with I/O burst of 11 units
+Idle. Total idle time (so far): 35
+Current Execution Time: 536
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 5 is in the I/O queue with I/O burst of 11 units
+Idle. Total idle time (so far): 36
+Current Execution Time: 537
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 2  is in the Ready queue with CPU burst of  8 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 5 is in the I/O queue with I/O burst of 11 units
+Process 1 has already been terminated
+Process 4 has already been terminated
+Process 6 has already been terminated
+Process 7 has already been terminated
+Process 8 has already been terminated
+Process 2 is currently executing
+Process 2 has finished total execution.
+Total Turnaround Time:  545
+Current Execution Time: 545
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 5  is in the Ready queue with CPU burst of  4 units
+Process 3 is in the I/O queue with I/O burst of 61 units
+Process 1 has already been terminated
+Process 2 has already been terminated
+Process 4 has already been terminated
+Process 6 has already been terminated
+Process 7 has already been terminated
+Process 8 has already been terminated
+Process 5 is currently executing
+Process 5 has finished total execution.
+Total Turnaround Time:  549
+Current Execution Time: 549
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 61 units
+Idle. Total idle time (so far): 37
+Current Execution Time: 550
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 61 units
+Idle. Total idle time (so far): 38
+Current Execution Time: 551
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 61 units
+Idle. Total idle time (so far): 39
+Current Execution Time: 552
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 61 units
+Idle. Total idle time (so far): 40
+Current Execution Time: 553
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 61 units
+Idle. Total idle time (so far): 41
+Current Execution Time: 554
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 61 units
+Idle. Total idle time (so far): 42
+Current Execution Time: 555
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 61 units
+Idle. Total idle time (so far): 43
+Current Execution Time: 556
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 61 units
+Idle. Total idle time (so far): 44
+Current Execution Time: 557
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 61 units
+Idle. Total idle time (so far): 45
+Current Execution Time: 558
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 61 units
+Idle. Total idle time (so far): 46
+Current Execution Time: 559
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 61 units
+Idle. Total idle time (so far): 47
+Current Execution Time: 560
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 61 units
+Idle. Total idle time (so far): 48
+Current Execution Time: 561
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Idle. Total idle time (so far): 49
+Current Execution Time: 562
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  15 units
+Process 1 has already been terminated
+Process 2 has already been terminated
+Process 4 has already been terminated
+Process 5 has already been terminated
+Process 6 has already been terminated
+Process 7 has already been terminated
+Process 8 has already been terminated
+Process 3 is currently executing
+Current Execution Time: 577
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 18 units
+Idle. Total idle time (so far): 50
+Current Execution Time: 578
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 18 units
+Idle. Total idle time (so far): 51
+Current Execution Time: 579
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 18 units
+Idle. Total idle time (so far): 52
+Current Execution Time: 580
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 18 units
+Idle. Total idle time (so far): 53
+Current Execution Time: 581
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 18 units
+Idle. Total idle time (so far): 54
+Current Execution Time: 582
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 18 units
+Idle. Total idle time (so far): 55
+Current Execution Time: 583
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 18 units
+Idle. Total idle time (so far): 56
+Current Execution Time: 584
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 18 units
+Idle. Total idle time (so far): 57
+Current Execution Time: 585
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 18 units
+Idle. Total idle time (so far): 58
+Current Execution Time: 586
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 18 units
+Idle. Total idle time (so far): 59
+Current Execution Time: 587
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 18 units
+Idle. Total idle time (so far): 60
+Current Execution Time: 588
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 18 units
+Idle. Total idle time (so far): 61
+Current Execution Time: 589
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 18 units
+Idle. Total idle time (so far): 62
+Current Execution Time: 590
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 18 units
+Idle. Total idle time (so far): 63
+Current Execution Time: 591
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 18 units
+Idle. Total idle time (so far): 64
+Current Execution Time: 592
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 18 units
+Idle. Total idle time (so far): 65
+Current Execution Time: 593
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 18 units
+Idle. Total idle time (so far): 66
+Current Execution Time: 594
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Idle. Total idle time (so far): 67
+Current Execution Time: 595
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  14 units
+Process 1 has already been terminated
+Process 2 has already been terminated
+Process 4 has already been terminated
+Process 5 has already been terminated
+Process 6 has already been terminated
+Process 7 has already been terminated
+Process 8 has already been terminated
+Process 3 is currently executing
+Current Execution Time: 609
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 68
+Current Execution Time: 610
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 69
+Current Execution Time: 611
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 70
+Current Execution Time: 612
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 71
+Current Execution Time: 613
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 72
+Current Execution Time: 614
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 73
+Current Execution Time: 615
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 74
+Current Execution Time: 616
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 75
+Current Execution Time: 617
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 76
+Current Execution Time: 618
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 77
+Current Execution Time: 619
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 78
+Current Execution Time: 620
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 79
+Current Execution Time: 621
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 80
+Current Execution Time: 622
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 81
+Current Execution Time: 623
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 82
+Current Execution Time: 624
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 83
+Current Execution Time: 625
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 84
+Current Execution Time: 626
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 85
+Current Execution Time: 627
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 86
+Current Execution Time: 628
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 87
+Current Execution Time: 629
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 88
+Current Execution Time: 630
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 89
+Current Execution Time: 631
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 90
+Current Execution Time: 632
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 91
+Current Execution Time: 633
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 26 units
+Idle. Total idle time (so far): 92
+Current Execution Time: 634
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Idle. Total idle time (so far): 93
+Current Execution Time: 635
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  5 units
+Process 1 has already been terminated
+Process 2 has already been terminated
+Process 4 has already been terminated
+Process 5 has already been terminated
+Process 6 has already been terminated
+Process 7 has already been terminated
+Process 8 has already been terminated
+Process 3 is currently executing
+Current Execution Time: 640
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 94
+Current Execution Time: 641
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 95
+Current Execution Time: 642
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 96
+Current Execution Time: 643
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 97
+Current Execution Time: 644
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 98
+Current Execution Time: 645
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 99
+Current Execution Time: 646
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 100
+Current Execution Time: 647
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 101
+Current Execution Time: 648
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 102
+Current Execution Time: 649
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 103
+Current Execution Time: 650
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 104
+Current Execution Time: 651
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 105
+Current Execution Time: 652
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 106
+Current Execution Time: 653
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 107
+Current Execution Time: 654
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 108
+Current Execution Time: 655
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 109
+Current Execution Time: 656
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 110
+Current Execution Time: 657
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 111
+Current Execution Time: 658
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 112
+Current Execution Time: 659
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 113
+Current Execution Time: 660
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 114
+Current Execution Time: 661
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 115
+Current Execution Time: 662
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 116
+Current Execution Time: 663
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 117
+Current Execution Time: 664
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 118
+Current Execution Time: 665
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 119
+Current Execution Time: 666
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 120
+Current Execution Time: 667
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 121
+Current Execution Time: 668
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 122
+Current Execution Time: 669
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3 is in the I/O queue with I/O burst of 31 units
+Idle. Total idle time (so far): 123
+Current Execution Time: 670
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Idle. Total idle time (so far): 124
+Current Execution Time: 671
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Process 3  is in the Ready queue with CPU burst of  6 units
+Process 1 has already been terminated
+Process 2 has already been terminated
+Process 4 has already been terminated
+Process 5 has already been terminated
+Process 6 has already been terminated
+Process 7 has already been terminated
+Process 8 has already been terminated
+Process 3 is currently executing
+Process 3 has finished total execution.
+Total Turnaround Time:  677
+Current Execution Time: 677
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Overall time spent being idle:  124
+The last process finished execution at time: 677
+SJF CPU Utilization: 81.68389955686854 %
+Processes No. Response Time  Waiting time  Turn around time
+ 1		11		 34		 259
+ 2		3		 118		 545
+ 3		16		 285		 677
+ 4		0		 39		 523
+ 5		103		 240		 549
+ 6		24		 150		 365
+ 7		47		 134		 462
+ 8		7		 112		 421
+Average waiting time = 139.0
+Average response time = 26.375
+Average turn around time = 475.125
+
+
+
